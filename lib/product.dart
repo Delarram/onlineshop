@@ -19,7 +19,7 @@ class Product{
 List<Product>? products= [
   Product(
       id: 1,
-      image: "images/black.png",
+      image: "images/abag.png",
       title: "office code",
       price: 234,
       size: 12,
@@ -27,7 +27,7 @@ List<Product>? products= [
       color: Color(0xff3D82AE)),
   Product(
       id: 2,
-      image: "images/coffee.png",
+      image: "images/bbag.png",
       title: "office code",
       price: 234,
       size: 12,
@@ -35,7 +35,7 @@ List<Product>? products= [
       color: Color(0xffD3A9F4)),
   Product(
       id: 3,
-      image: "images/grey.png",
+      image: "images/cbag.png",
       title: "office code",
       price: 234,
       size: 12,
@@ -43,7 +43,7 @@ List<Product>? products= [
       color: Color(0xff989493)),
   Product(
       id: 4,
-      image: "images/nice.png",
+      image: "images/dbag.png",
       title: "office code",
       price: 234,
       size: 12,
@@ -51,7 +51,7 @@ List<Product>? products= [
       color: Color(0xffE6B398)),
   Product(
       id: 5,
-      image: "images/ninyo.png",
+      image: "images/fbag.png",
       title: "office code",
       price: 234,
       size: 12,
@@ -59,7 +59,7 @@ List<Product>? products= [
       color: Color(0xffFB7883)),
   Product(
       id: 6,
-      image: "images/purple.png",
+      image: "images/gbag.png",
       title: "office code",
       price: 234,
       size: 12,
@@ -67,7 +67,7 @@ List<Product>? products= [
       color: Color(0xffAEAEAE)),
   Product(
       id: 7,
-      image: "images/red.png",
+      image: "images/hbag.png",
       title: "office code",
       price: 234,
       size: 12,
@@ -75,7 +75,7 @@ List<Product>? products= [
       color: Color(0xff3D82AE)),
   Product(
       id: 8,
-      image: "images/yellow.png",
+      image: "images/red.png",
       title: "office code",
       price: 234,
       size: 12,
